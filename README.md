@@ -18,14 +18,13 @@ Este programa lê a definição de um grafo a partir de um arquivo de entrada e 
 
 ## Compilação
 
-make
-
-```bash
-gcc -o grafos grafos.c
+- make
+---
 
 ## Execução
 
-./testagrafo < entrada.in
+
+- ./testagrafo < entrada.in
 
 
 E digite/passe os dados na entrada padrão.
